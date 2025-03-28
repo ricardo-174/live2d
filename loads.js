@@ -1,6 +1,6 @@
 // 注意：live2d_path 参数应使用绝对路径
-const live2d_path = "https://fastly.jsdelivr.net/gh/lrplrplrp/live2d@master/";
-const model_path="https://ghproxy.net/https://raw.githubusercontent.com/lrplrplrp/live2d_api/refs/heads/master/";
+const live2d_path = "https://fastly.jsdelivr.net/gh/ricardo-174/bkyl2d@master/";
+const model_path="https://github.com/ricardo-174/live2d_api/refs/heads/master/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
